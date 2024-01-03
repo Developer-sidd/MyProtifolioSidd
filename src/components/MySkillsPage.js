@@ -95,13 +95,17 @@ const MySkillsPage = () => {
             <ul>
               <li>Java</li>
               <li>JavaScript</li>
-            </ul>
+   
+            </ul>  <a href="https://drive.google.com/drive/folders/1pCLsYmZ28_yzka4xLFe_-Mu5fIyjqbLX?usp=drive_link">
+            Get My Resume
+          </a>
           </Description>
           <Description>
             <strong>Tools</strong>
             <ul>
               <li>VS Code</li>
               <li>intellij IDEA</li>
+    <li>Git And Github</li>  <li>Netlify And Vercel</li>
             </ul>
           </Description>
         </Main>
