@@ -150,7 +150,7 @@ const Main = () => {
           <span>click here</span>
         </Center>
 
-        <Contact target="_blank" href="mailto:officialsidd@gamil.com">
+        <Contact target="_blank" href="mailto:codebucks27@gmail.com">
           <motion.h2
             initial={{
               y: -200,
@@ -179,7 +179,7 @@ const Main = () => {
             whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.9 }}
           >
-            Education
+            Edu
           </motion.h2>
         </BLOG>
         <WORK to="/work" click={+click}>
@@ -195,7 +195,7 @@ const Main = () => {
             whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.9 }}
           >
-            Projects Here
+            Project
           </motion.h2>
         </WORK>
         <BottomBar>
