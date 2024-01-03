@@ -83,7 +83,7 @@ const BlogPage = () => {
             })}
           </Grid>
         </Center>
-        <BigTitle text="Education" top="5rem" left="5rem" />
+        <BigTitle text="Edu" top="5rem" left="5rem" />
       </Container>
     </MainContainer>
   );
