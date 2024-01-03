@@ -5,6 +5,9 @@ This repository contains Final code for The Portfolio Website in ReactJS. <br />
 For the **Demo** and **Final Code** checkout this link👇: <br />
 <a href="https://mesidd.vercel.app/" target="_blank">Checkout this Responsive Portfolio in ReactJS</a> <br />
 
+For the **Get My Resume HEre**  checkout this link👇: <br />
+<a href="https://drive.google.com/drive/folders/1pCLsYmZ28_yzka4xLFe_-Mu5fIyjqbLX?usp=drive_link" target="_blank">Download My Resume And achivements </a> <br />
+
 <hr/>
 
 ## Available Scripts
